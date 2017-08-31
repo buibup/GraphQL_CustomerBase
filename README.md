@@ -14,4 +14,6 @@
 
     npm run json:server
 
-Thanks Traversy Media
+# ref : <https://github.com/bradtraversy/customerbase>
+
+# Thanks Traversy Media
